@@ -14,8 +14,6 @@ Bước đầu tiên và quan trọng nhất trong việc khám phá mục tiêu
 
 ## 2. Công cụ Nmap (Network Mapper)
 
-Nmap là tiêu chuẩn vàng trong ngành để tự động hóa quá trình quét cổng và phát hiện dịch vụ.
-
 ### Các câu lệnh phổ biến
 
 | Lệnh | Ý nghĩa |
