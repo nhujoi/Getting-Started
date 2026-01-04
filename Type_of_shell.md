@@ -9,8 +9,8 @@
 * **-p 1234**: Số cổng netcat đang nghe và kết nối ngược lại sẽ được gửi tới.
 
 **Tham khảo:** [InternalAllTheThings - Reverse Shell Cheatsheet](https://swisskyrepo.github.io/InternalAllTheThings/cheatsheets/shell-reverse-cheatsheet/)
-> Tìm lệnh để mở reverse connection --> thành công.
-> 
+-> Tìm lệnh để mở reverse connection --> thành công.
+ 
 > **Lưu ý:** Khi lệnh shell ngược bị dừng hoặc nếu chúng ta mất kết nối vì bất kỳ lý do gì, chúng ta sẽ phải sử dụng cách khai thác ban đầu để thực thi lại lệnh shell ngược để lấy lại quyền truy cập của mình.
 
 ---
@@ -57,3 +57,4 @@ Web Shell thực chất là một đoạn mã (script) nhỏ được viết b�
 > * **Ưu điểm:** Vượt tường lửa, bền bỉ, khó bị mất file shell.
 
 > * **Nhược điểm:** Không tương tác trực tiếp được (non-interactive) do shell cố định ở folder đó, dễ để lại dấu vết trong log truy cập.
+
