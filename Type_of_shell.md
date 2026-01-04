@@ -55,6 +55,7 @@ Web Shell thực chất là một đoạn mã (script) nhỏ được viết b�
 
 > **Đánh giá:**
 > * **Ưu điểm:** Vượt tường lửa, bền bỉ, khó bị mất file shell.
-
+>
 > * **Nhược điểm:** Không tương tác trực tiếp được (non-interactive) do shell cố định ở folder đó, dễ để lại dấu vết trong log truy cập.
+
 
